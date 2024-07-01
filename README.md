@@ -37,6 +37,7 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 - **Pandas:** For data manipulation and analysis.
 - **Tkinter:** For creating the graphical user interface.
 - **Google Colab:** For running and sharing Jupyter notebooks.
+- **pyttsx3:** For text-to-speech conversion.
 
 
 
