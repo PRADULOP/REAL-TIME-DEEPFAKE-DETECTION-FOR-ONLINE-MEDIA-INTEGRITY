@@ -95,7 +95,8 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Contact
 
-For any questions or inquiries, please contact Pradul OP at pradul2002@gmail.com.
+For any questions or inquiries, please contact me at pradul2002@gmail.com.
+
 **5.** Model Download Link:
          https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
 
