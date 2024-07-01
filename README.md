@@ -96,7 +96,7 @@ The model achieved the following performance metrics:
 These results demonstrate the model's robust performance in identifying deepfake videos.
 ## Model
 Model Download Link:
-         https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
+         https://drive.google.com/file/d/1cFnH7LE5qiS6WaShWLSo58B-1UgrH4AS/view?usp=sharing
 ## Dataset
 This model was trained using an aggregated dataset consisting of:
 
