@@ -12,8 +12,11 @@ This project involves the development and implementation of a deep learning algo
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Results](#results)
+- [Model](#model)
+- [Dataset](#dataset)
 - [Contributing](#contributing)
 - [Contact](#contact)
+
 
 ## Introduction
 
@@ -88,6 +91,12 @@ The model achieved the following performance metrics:
 - **Loss:** 0.19
 
 These results demonstrate the model's robust performance in identifying deepfake videos.
+## Model
+**1.** Model Download Link:
+         https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
+## Dataset
+**1.** Dataset Download Link:
+https://drive.google.com/drive/folders/1umdXB_4gLBHH6LoEyi5X7E9rwm6on1YQ
 
 ## Contributing
 
@@ -97,8 +106,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 For any questions or inquiries, please contact me at pradul2002@gmail.com.
 
-**5.** Model Download Link:
-         https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
 
-**6.** Dataset Download Link:
-https://drive.google.com/drive/folders/1umdXB_4gLBHH6LoEyi5X7E9rwm6on1YQ
+
+
