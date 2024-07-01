@@ -35,6 +35,7 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 - **OpenCV:** For video processing.
 - **NumPy:** For numerical computations.
 - **Pandas:** For data manipulation and analysis.
+- **Tkinter:** For creating the graphical user interface.
 
 
 
