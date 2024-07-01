@@ -1,7 +1,7 @@
 # REAL-TIME-DEEPFAKE-DETECTION-FOR-ONLINE-MEDIA-INTEGRITY
 
 
-[Logo](../master/Resources/ui.png)
+![Logo](./Resources/ui.png)
 
 
 ## How to configure web app
