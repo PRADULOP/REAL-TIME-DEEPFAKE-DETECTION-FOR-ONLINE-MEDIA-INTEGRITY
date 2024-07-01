@@ -82,6 +82,7 @@ $ pip install tkinter
 ```shell
 $ pip install cv2    
 ```
+```shell
 $ pip install pyttsx3  
 ```
 **4.** Execute prediction model
