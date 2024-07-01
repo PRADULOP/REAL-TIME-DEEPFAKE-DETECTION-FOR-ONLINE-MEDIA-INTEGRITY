@@ -1,5 +1,6 @@
 # REAL-TIME-DEEPFAKE-DETECTION-FOR-ONLINE-MEDIA-INTEGRITY
 
+
 ![Logo](../master/Resources/abc.png)
 
 
@@ -7,8 +8,8 @@
 **1.** Clone git repo
 
 ```shell
-$ git clone "[https://github.com/PRADULOP/Green-Sort.git"
-```](https://github.com/PRADULOP/REAL-TIME-DEEPFAKE-DETECTION-FOR-ONLINE-MEDIA-INTEGRITY.git)
+$ git clone "https://github.com/PRADULOP/REAL-TIME-DEEPFAKE-DETECTION-FOR-ONLINE-MEDIA-INTEGRITY.git"
+```
 
 **2.** Create virtual env
 
