@@ -38,7 +38,7 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 
 
 
-## Installation]
+## Installation
 **1.** Clone git repo
 
 ```shell
