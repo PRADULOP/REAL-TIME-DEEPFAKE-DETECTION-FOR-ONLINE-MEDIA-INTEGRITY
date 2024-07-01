@@ -13,7 +13,6 @@ This project involves the development and implementation of a deep learning algo
 - [Installation](#installation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -88,19 +87,15 @@ The model achieved the following performance metrics:
 - **Accuracy:** 86%
 - **Loss:** 0.19
 
-These results demonstrate the model's robust performance in identifying deepfake videos across various platforms.
+These results demonstrate the model's robust performance in identifying deepfake videos.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss potential changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or inquiries, please contact Pradul OP at pradul@example.com.
+For any questions or inquiries, please contact Pradul OP at pradul2002@gmail.com.
 **5.** Model Download Link:
          https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
 
