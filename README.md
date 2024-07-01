@@ -3,7 +3,7 @@
 
 ![Logo](./Resources/ui.png)
 
-This project involves the development and implementation of a deep learning algorithm that leverages a CNN-RNN approach to detect deepfake videos. This solution is designed to work across various online platforms, including Facebook and Instagram.
+This project involves the development and implementation of a deep learning algorithm that leverages a CNN-RNN approach to detect deepfake videos. This solution is designed to work across various online platforms.
 
 ## Table of Contents
 
