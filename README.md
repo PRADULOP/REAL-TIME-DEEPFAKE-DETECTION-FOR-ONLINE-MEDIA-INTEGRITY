@@ -3,8 +3,40 @@
 
 ![Logo](./Resources/ui.png)
 
+This project involves the development and implementation of a deep learning algorithm that leverages a CNN-RNN approach to detect deepfake videos. This solution is designed to work across various online platforms, including Facebook and Instagram.
 
-## How to configure web app
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+Deepfake technology has made it increasingly difficult to distinguish between real and manipulated media. This project aims to address this challenge by developing a robust deep learning model that can accurately identify deepfake videos. By utilizing a combination of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), the model achieves high accuracy and low loss in detecting manipulated media.
+
+## Features
+
+- **High Accuracy:** Achieved an accuracy of 86% in detecting deepfake videos.
+- **Low Loss:** Model achieved a loss of 0.19, indicating robust performance.
+- **CNN-RNN Approach:** Utilizes the strengths of both CNNs and RNNs for feature extraction and temporal analysis.
+
+## Technologies Used
+
+- **Python:** Main programming language.
+- **TensorFlow/Keras:** Deep learning framework for building and training the model.
+- **OpenCV:** For video processing.
+- **NumPy:** For numerical computations.
+- **Pandas:** For data manipulation and analysis.
+
+
+
+## Installation]
 **1.** Clone git repo
 
 ```shell
@@ -47,8 +79,28 @@ $ pip install cv2
 ```
 **4.** Execute prediction model
 ```shell
-$ python ./main.py      
+$ python ./main.py
 ```
+## Results
+
+The model achieved the following performance metrics:
+
+- **Accuracy:** 86%
+- **Loss:** 0.19
+
+These results demonstrate the model's robust performance in identifying deepfake videos across various platforms.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss potential changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or inquiries, please contact Pradul OP at pradul@example.com.
 **5.** Model Download Link:
          https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
 
