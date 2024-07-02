@@ -10,6 +10,7 @@ This project involves the development and implementation of a deep learning algo
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Model Architecture](#architecture)
 - [Installation](#installation)
 - [Results](#results)
 - [Model](#model)
@@ -38,6 +39,11 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 - **Tkinter:** For creating the graphical user interface.
 - **Google Colab:** For running and sharing Jupyter notebooks.
 - **pyttsx3:** For text-to-speech conversion.
+
+## Model Architecture
+[Logo](./Resources/ui.png)
+
+
 
 
 
