@@ -41,7 +41,7 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 - **pyttsx3:** For text-to-speech conversion.
 
 ## Model Architecture
-[Logo](./Resources/architecture.png)
+![Logo](./Resources/architecture.png)
 
 
 
