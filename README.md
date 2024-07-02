@@ -80,10 +80,13 @@ $ pip install opencv-python
 $ pip install tkinter     
 ```
 ```shell
-$ pip install cv2    
+$ pip install cvzone  
 ```
 ```shell
 $ pip install pyttsx3  
+```
+```shell
+$ pip install torchvision
 ```
 **4.** Execute prediction model
 ```shell
